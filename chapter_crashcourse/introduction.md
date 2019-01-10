@@ -370,7 +370,7 @@ It's treated with a distinct set of algorithms than those that are used for regr
 
 In classification, we want to look at a feature vector, like the pixel values in an image,
 and then predict which category (formally called *classes*),
-among some set of options, an example belongs.
+among some set of options, an example belongs to.
 For hand-written digits, we might have 10 classes,
 corresponding to the digits 0 through 9.
 The simplest form of classification is when there are only two classes,
